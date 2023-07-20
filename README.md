@@ -20,6 +20,6 @@
     <a href="https://github.com/EshanLewis/HackerRank-CPP-Solution/issues">Request Feature</a>
   </p>
 </p>
-<p align = center>
+
 ![Contributors](https://img.shields.io/github/contributors/EshanLewis/HackerRank-CPP-Solution?color=dark-green) ![Forks](https://img.shields.io/github/forks/EshanLewis/HackerRank-CPP-Solution?style=social) ![Stargazers](https://img.shields.io/github/stars/EshanLewis/HackerRank-CPP-Solution?style=social) ![Issues](https://img.shields.io/github/issues/EshanLewis/HackerRank-CPP-Solution) 
-</p>
+
